@@ -155,3 +155,18 @@
 2022-03-15 11:41:24,830 - nopCommerce -INFO -****** click on Logout ********
 2022-03-15 11:41:30,004 - nopCommerce -INFO -****** Login Success **********
 2022-03-15 11:41:30,019 - nopCommerce -INFO -****** close the driver ********
+2022-03-16 13:06:36,879 - nopCommerce -INFO -******* Launching Browser ******* 
+2022-03-16 13:06:36,914 - nopCommerce -INFO -******* Opening URL ******* 
+2022-03-16 13:06:38,170 - nopCommerce -INFO -******** Enter User Info ********
+2022-03-16 13:06:38,458 - nopCommerce -INFO -********Started login ****************
+2022-03-16 13:06:50,820 - nopCommerce -INFO -****** Adding New Customer info *********
+2022-03-16 13:07:20,921 - nopCommerce -INFO -*********** Saving New Customer Data ********* 
+2022-03-16 13:07:26,478 - nopCommerce -INFO -****** close the driver ********
+2022-03-16 13:07:27,830 - nopCommerce -INFO -******* Launching Browser ******* 
+2022-03-16 13:07:27,831 - nopCommerce -INFO -******* Opening URL ******* 
+2022-03-16 13:07:28,971 - nopCommerce -INFO -******** Enter User Info ********
+2022-03-16 13:07:29,134 - nopCommerce -INFO -********Started login ****************
+2022-03-16 13:07:31,985 - nopCommerce -INFO -****** Login Success **********
+2022-03-16 13:07:31,992 - nopCommerce -INFO -****** click on Logout ********
+2022-03-16 13:07:37,435 - nopCommerce -INFO -****** Login Success **********
+2022-03-16 13:07:37,443 - nopCommerce -INFO -****** close the driver ********
