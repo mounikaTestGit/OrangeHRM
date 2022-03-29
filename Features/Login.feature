@@ -28,6 +28,7 @@ Scenario Outline: Login Data Driven
     | email | password |
 
     |    admin@yourstore.com   |    admin |
-    |   admin1@yourstore.com    |   admin |
-    |   admin@yourstore.com    |    admin111 |
+    |   admin@yourstore.com    |   admin |
+    |   admin@yourstore.com    |    admin |
+
 
